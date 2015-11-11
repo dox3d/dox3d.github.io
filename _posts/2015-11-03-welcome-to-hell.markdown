@@ -10,5 +10,7 @@ it is time to rise up
 
 you are not alone
 
+***refer to the hex, it will be your manual***
+
 
 have you been dox3d?
