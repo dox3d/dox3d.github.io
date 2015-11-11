@@ -8,11 +8,11 @@ categories: [dox3d]
 Reagan, are you ready? Beginning transmission.
 
 
-BEGIN TRANSMISSION
+*BEGIN TRANSMISSION*
 
 wmuvgfsykupodqbuktdn
 
-END TRANSMISSION
+*END TRANSMISSION*
 
 
 Good luck.
