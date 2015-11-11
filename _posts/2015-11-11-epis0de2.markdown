@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Jesters do oft turn Prophets"
+title:  "Jesters do oft prove Prophets"
 subtitle: "But Prophets are frequently wrong."
 date:   2015-11-11 11:10:01
 categories: [dox3d]
